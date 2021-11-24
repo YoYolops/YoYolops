@@ -40,6 +40,8 @@
   <img style="margin-left: 5px" align="center" title="Java" alt="Java" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img style="margin-left: 5px" align="center" title="R" alt="R" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img style="margin-left: 5px" align="center" title="MongoDB" alt="MongoDB" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img style="margin-left: 5px" align="center" title="Debian" alt="Debian" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+      <img style="margin-left: 5px" align="center" title="Bash" alt="Bash" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <br />
   <br />
 </div>
