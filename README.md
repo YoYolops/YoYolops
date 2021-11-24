@@ -5,7 +5,7 @@
 - 👯 Lookign forward to work with something that matters
 - 💬 My pet technology is svelte <3
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoYolops&show_icons=true&theme=gotham&count_private=true&hide=issues)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoYolops&layout=compact&show_icons=true&theme=gotham&count_private=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoYolops&layout=compact&show_icons=true&theme=gotham&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My **front-end** tools are:
