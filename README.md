@@ -5,8 +5,11 @@
 - 👯 Lookign forward to work with something that matters
 - 💬 My pet technology is svelte <3
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoYolops&layout=compact&show_icons=true&theme=gotham&count_private=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoYolops&layout=compact&show_icons=true&theme=gotham&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/angelicacavalheiro">
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=YoYolops&show_icons=true&theme=gotham"/>
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=YoYolops&layout=compact&theme=gotham"/>
+</div>
 
 #### My **front-end** tools are:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
