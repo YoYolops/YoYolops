@@ -31,17 +31,17 @@
 
 #### Other tools and technologies:
 <div style="display: inline_block"><br>
-  <img  style="margin-left: 5px" align="center" title="VS Code" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img style="margin-left: 5px" align="center" title="GitHub" alt="GitHub" height="30" width="30" src="https://github.githubassets.com/favicons/favicon-dark.png">
-  <img style="margin-left: 5px" align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img style="margin-left: 5px" align="center" title="yarn" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
-  <img style="margin-left: 5px" align="center" title="Heroku" alt="Heroku" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-  <img style="margin-left: 5px" align="center" title="Python" alt="Python" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img style="margin-left: 5px" align="center" title="Java" alt="Java" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img style="margin-left: 5px" align="center" title="R" alt="R" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img style="margin-left: 5px" align="center" title="MongoDB" alt="MongoDB" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img style="margin-left: 5px" align="center" title="Debian" alt="Debian" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-      <img style="margin-left: 5px" align="center" title="Bash" alt="Bash" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img  style="margin-left: 20px" align="center" title="VS Code" alt="VS Code" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img style="margin-left: 20px" align="center" title="GitHub" alt="GitHub" height="30" width="30" src="https://github.githubassets.com/favicons/favicon-dark.png">
+  <img style="margin-left: 20px" align="center" title="Git" alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img style="margin-left: 20px" align="center" title="yarn" alt="npm" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
+  <img style="margin-left: 20px" align="center" title="Heroku" alt="Heroku" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+  <img style="margin-left: 20px" align="center" title="Python" alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img style="margin-left: 20px" align="center" title="Java" alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img style="margin-left: 20px" align="center" title="R" alt="R" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img style="margin-left: 20px" align="center" title="MongoDB" alt="MongoDB" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img style="margin-left: 20px" align="center" title="Debian" alt="Debian" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+      <img style="margin-left: 20px" align="center" title="Bash" alt="Bash" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <br />
   <br />
 </div>
