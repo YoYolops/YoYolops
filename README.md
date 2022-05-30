@@ -1,4 +1,3 @@
-<img align="right" alt="GIF" src="/assets/café-troiaweb.gif" width="400"/>
 
 ### Hi there 👋
 
