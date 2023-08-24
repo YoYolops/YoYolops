@@ -28,6 +28,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+<div style="display:flex; justify-content: space-between;" >
+  <a href="https://github.com/Smilke">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YoYolops&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoYolops&layout=compact&theme=dark&hide">
+</div>
+
 #### Other tools and technologies:
 <div style="display: inline_block"><br>
   <img  style="margin-left: 20px" align="center" title="VS Code" alt="VS Code" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -38,6 +44,7 @@
   <img style="margin-left: 20px" align="center" title="Python" alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img style="margin-left: 20px" align="center" title="Java" alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img style="margin-left: 20px" align="center" title="R" alt="R" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img style="margin-left: 20px" align="center" title="Rust" alt="Rust" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   <img style="margin-left: 20px" align="center" title="MongoDB" alt="MongoDB" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img style="margin-left: 20px" align="center" title="Debian" alt="Debian" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
       <img style="margin-left: 20px" align="center" title="Bash" alt="Bash" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
