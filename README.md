@@ -28,11 +28,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<div style="display:flex; justify-content: space-between;" >
-  <a href="https://github.com/Smilke">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YoYolops&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoYolops&layout=compact&theme=dark&hide">
-</div>
 
 #### Other tools and technologies:
 <div style="display: inline_block"><br>
