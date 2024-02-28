@@ -35,11 +35,9 @@
   <img style="margin-left: 20px" align="center" title="GitHub" alt="GitHub" height="30" width="30" src="https://github.githubassets.com/favicons/favicon-dark.png">
   <img style="margin-left: 20px" align="center" title="Git" alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img style="margin-left: 20px" align="center" title="yarn" alt="npm" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
-  <img style="margin-left: 20px" align="center" title="Heroku" alt="Heroku" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
   <img style="margin-left: 20px" align="center" title="Python" alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img style="margin-left: 20px" align="center" title="Java" alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img style="margin-left: 20px" align="center" title="R" alt="R" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img style="margin-left: 20px" align="center" title="Rust" alt="Rust" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   <img style="margin-left: 20px" align="center" title="MongoDB" alt="MongoDB" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img style="margin-left: 20px" align="center" title="Debian" alt="Debian" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
       <img style="margin-left: 20px" align="center" title="Bash" alt="Bash" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
