@@ -1,10 +1,9 @@
 
 ### Hi there 👋
-
-- 🔭 I’m fullstack web dev that loves daytime
-- 🌱 I’m learning as much web development as my brain handles
-- 👯 Lookign forward to work with something that matters
-- 💬 My pet technology is svelte <3
+- 👷 Working in development since 2020
+- 🔭 Fullstack web dev that loves daytime
+- 🌱 Learning as much web development as my brain handles
+- 💬 Love people & feeds on coffee and problems
 
 ### You can reach me here:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yohanlopes/)
