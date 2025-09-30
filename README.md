@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-- 👷 Working in development since 2020
+- 👷 Working in development since 2022
 - 🌱 Learning as much about software as my brain handles
 - 💬 Loves people & feeds on coffee and sun
 
